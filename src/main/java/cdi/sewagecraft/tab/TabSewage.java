@@ -3,7 +3,6 @@ package cdi.sewagecraft.tab;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
-import net.minecraftforge.registries.ForgeRegistries;
 import org.jetbrains.annotations.NotNull;
 
 public class TabSewage extends CreativeModeTab {

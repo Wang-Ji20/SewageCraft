@@ -4,7 +4,6 @@ import cdi.sewagecraft.capabilities.metabolism.MetabolismCapability;
 import cdi.sewagecraft.tab.TabSewage;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.InteractionResult;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.context.UseOnContext;
 import org.jetbrains.annotations.NotNull;
